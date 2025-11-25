@@ -1,0 +1,5 @@
+{
+  "name": "EcoBudget France 2024",
+  "description": "Visualisation interactive du Budget de l'État Français 2024 sous forme de diagramme Sankey, assistée par IA pour l'analyse financière.",
+  "requestFramePermissions": []
+}
