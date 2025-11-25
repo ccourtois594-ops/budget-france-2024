@@ -24,7 +24,7 @@ Visualisation interactive et pédagogique du Budget de l'État Français 2024. C
 1. **Cloner le dépôt**
    ```bash
    git clone https://github.com/ccourtois594-ops/budget-france-2024.git
-   cd ecobudget-france-2024
+   cd budget-france-2024
    ```
 
 2. **Installer les dépendances**
